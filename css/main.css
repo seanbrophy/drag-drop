@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+
+#container
+{
+	margin: 0 auto;
+	width:900px;
+}
+
+#targetOne{
+	float:left;
+	width:150px;
+	height:150px;
+	padding:10px;
+	text-align:center;
+	border:1px solid #aaaaaa;
+}
+
+#targetTwo{
+	float:left;
+	margin-left:10px;
+	width:150px;
+	height:150px;
+	padding:10px;
+	text-align:center;
+	border:1px solid #aaaaaa;
+}
+
+#box
+{
+	margin: 0 auto;
+	text-align:center;
+	width: 360px;
+}
+#reset
+{
+	clear:both;
+	text-align:center;
+}
+
+#drag-elements
+{
+	text-align:center;
+}
+
+#drag-elements li
+{
+	display:inline;
+}
+
+#cats
+{
+	text-align:center;
+}
+#dogs
+{
+	text-align:center;
+}
